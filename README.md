@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranciGrucci
 - 👀 I’m interested in Physics and AI
-- 🌱 I’m currently learning Generative AI
+- 🌱 Robotics, Ai, Simulations, ComputerVision
 - 💞️ I’m looking to collaborate on Simmetry breaking in intelligence developement
 - 📫 How to reach me francesca.grucci@gmail.com
 
