@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciGrucci
 - 👀 I’m interested in Physics and AI
 - 🌱 Robotics, Ai, Simulations, ComputerVision
-- 💞️ I’m looking to collaborate on Simmetry breaking in intelligence developement
+- 💞️ Where symmetry broken, intelligence borns :)
 - 📫 How to reach me francesca.grucci@gmail.com
 
 
